@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## npm package
- <a href=https://www.npmjs.com/package/user-icon-generator> User-icon-generator
+ <a href=https://www.npmjs.com/package/user-icon-generator> user-icon-generator
  <a href=https://github.com/lokeshchoubisa/user-icon-generator>
    <img src=https://img.shields.io/npm/l/user-icon-generator>
 </a>
