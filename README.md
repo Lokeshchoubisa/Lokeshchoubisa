@@ -1,5 +1,5 @@
 > Innovative and Optimized solution seeker.
-![](https://c4.wallpaperflare.com/wallpaper/836/933/123/keep-calm-coder-programming-code-wallpaper-preview.jpg)
+![](https://lh3.googleusercontent.com/XwXMiM-_81KybhR-TT0K6sIq5ayVHJpIL3IntlgVTK41ECN8MlrvVFoOdnVEEQ5zKVEnzHgn7-LR7Kl3Ymt2=w1297-h902)
 
 
 
