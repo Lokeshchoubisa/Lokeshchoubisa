@@ -1,5 +1,6 @@
-> Innovative and Optimized solution seeker.
-![](https://lh3.googleusercontent.com/XwXMiM-_81KybhR-TT0K6sIq5ayVHJpIL3IntlgVTK41ECN8MlrvVFoOdnVEEQ5zKVEnzHgn7-LR7Kl3Ymt2=w1297-h902)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h3 align="center">Hey there, I'm Lokesh Choubisa -<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 
 
