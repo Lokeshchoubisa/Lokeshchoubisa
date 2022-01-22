@@ -2,7 +2,7 @@
 ![](https://c4.wallpaperflare.com/wallpaper/836/933/123/keep-calm-coder-programming-code-wallpaper-preview.jpg)
 
 
-## CheckOut my Portfolio :   [👉 Here ](https://pooja-rathore.netlify.app/)
+
 <!--
 
 
@@ -27,13 +27,13 @@ Here are some ideas to get you started:
    <img width="120" height="70" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg">
    
    <img width="150" height="60" src="https://images.squarespace-cdn.com/content/v1/56b8dfcf62cd94ec072ddb33/1547134228418-XO27PTIE8BYNJCK3K7LS/htlm+css+and+js+logo.png">
-   <img  width="100" height="60" src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo-1280x720.png">
+
  <img width="70" height="60" src="https://pngimg.com/uploads/linux/linux_PNG51.png">
  <img  width="50" height="50" src="https://theindianwire.com/wp-content/uploads/2018/06/CBuilder-logo.png">
- <img  width="90" height="60" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png">
+
  <img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
- <img  width="70" height="70" src="https://user-images.githubusercontent.com/53404072/140651347-a72ef973-af71-41b9-b39d-865c747b925a.png">
+
 </p>
 
  > Nothing worth having, comes easy !  🔶
- ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
+ 
