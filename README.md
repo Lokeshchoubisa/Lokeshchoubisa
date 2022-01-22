@@ -29,7 +29,6 @@ Here are some ideas to get you started:
    
    <img width="150" height="60" src="https://images.squarespace-cdn.com/content/v1/56b8dfcf62cd94ec072ddb33/1547134228418-XO27PTIE8BYNJCK3K7LS/htlm+css+and+js+logo.png">
 
- <img width="70" height="60" src="https://pngimg.com/uploads/linux/linux_PNG51.png">
  <img  width="50" height="50" src="https://theindianwire.com/wp-content/uploads/2018/06/CBuilder-logo.png">
 
  <img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
